@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # todo-app
 =======
 # README
@@ -23,6 +22,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
->>>>>>> 7d152380ec063507fc4ef453eab3900d0f640a75
